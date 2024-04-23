@@ -17,7 +17,7 @@ let package = Package(
       targets: ["BrazeKit", "BrazeKitResources"]
     ),
     .library(
-      name: "BrazeUI",
+      name: "Braze-UI",
       targets: ["BrazeUI"]
     ),
     .library(
